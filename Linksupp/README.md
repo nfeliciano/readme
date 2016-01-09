@@ -6,7 +6,7 @@
 <img src="screenshots/2.png" alt="LFI Cover" width="384" height="192">   
 **Who**: This project was created in a group of 5 student developers.   
 **When**: Linksupp began as a class project for a course named "Startup Programming", spanning 4 months in Fall 2014. At the moment, 3 of the developers (including myself) are reworking Linksupp using other technologies, such as Django, Foundation, and Grunt.    
-**Where**: Screenshots in this repository. A video of our final product for the class presentation in YouTube. The project, including my contributions, are on GitHub. We took down the live website due to running costs.    
+**Where**: Screenshots in this repository. A video of our final product for the class presentation in [YouTube](https://www.youtube.com/watch?v=6ol6h0DApqQ). The project, including my contributions, are on [GitHub](https://github.com/nfeliciano/mangiamo). We took down the live website due to running costs.    
 
 ---
 <img src="screenshots/4.png" alt="LFI Cover" width="384" height="192">   
