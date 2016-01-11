@@ -9,7 +9,7 @@
 
 <img src="screenshots/3.jpg" alt="LFI Cover" width="192" height="256">  
 
-**Where**: Screenshots in this repository. The app on the Apple [app store](https://itunes.apple.com/ca/app/comic-tycoon-hd/id609065885?mt=8).
+**Where**: Screenshots in this repository. The app on the Apple App Store [for iPad](https://itunes.apple.com/ca/app/comic-tycoon-hd/id609065885?mt=8) and [for iPhone](https://itunes.apple.com/ca/app/comic-tycoon-for-iphone/id659102616?mt=8)
 
 ---  
 
@@ -17,4 +17,4 @@
 
 <img src="screenshots/4.jpg" alt="LFI Cover" width="192" height="256">
 
-**What I learned**: The app development process, from conception to design to building to localization to release.
+**What I learned**: The app development process, from conception to design to building to localization to release. Learning to build for multiple screen sizes was an invaluable experience as well.
