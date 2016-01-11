@@ -1,4 +1,8 @@
 # readme
 Here be a list of stuff I've worked on with relevant links. Also miscellaneous stuff.
 
-I'm anticipating that everything will be on the [wiki](https://github.com/nfeliciano/readme/wiki), but who really knows?!? Maybe I'll put old school assignments and stuff on here too.
+THe bigger projects I'd have worked on is organized in folders here. For other miscellaneous stuff:    
+Abe Books Hackathon (https://github.com/brendanclement/hackathon)    
+Thinklandia Microsoft Hackathon (https://github.com/dpotts/Thinklandia-Hack)    
+My Museum Experience (https://github.com/nfeliciano/mme)    
+Cutting Room (https://github.com/nfeliciano/CuttingRoom)    
