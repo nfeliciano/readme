@@ -7,3 +7,4 @@ Abe Books Hackathon (https://github.com/brendanclement/hackathon) - Built an iOS
 Thinklandia Microsoft Hackathon (https://github.com/dpotts/Thinklandia-Hack) - Used Microsoft's Kinect to automatically insert faces into pre-made 'cards'.    
 My Mobile Experience (https://github.com/nfeliciano/mme) - Working with a PhD student and learnin' Swift (Spoiler: I love Swift)     
 Cutting Room (https://github.com/nfeliciano/CuttingRoom) - PHP development with some HTML5 Canvas sprinkled in    
+FreeBird (https://github.com/nfeliciano/FreeBird) - iOS game where people can learn bird classifications by playing a game similar to 'Free Cell' with a bird deck. Was for a study.    
