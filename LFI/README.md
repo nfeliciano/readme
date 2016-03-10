@@ -1,11 +1,11 @@
-# LFI 2.0
+# LFI! Scrapbook
 ### Objective-C, Core Data, MVC, SpriteKit, Swift
 <img src="screenshots/1.jpg" alt="LFI Cover" width="192" height="256">
 
-**What**: Let's Face It 2.0 is an iPad app being developed at the Centre of Autism Research, Technology, and Education    ([Site](http://web.uvic.ca/~carte/) | [Facebook](https://www.facebook.com/CARTEUVIC/?ref=aymt_homepage_panel)) at the University of Victoria. The aim of the app is to enhance the socio-emotional skills of children with ASD, taking inspiration from the original Let's Face It! program ([Link](http://web.uvic.ca/~letsface/letsfaceit/)) and extending it by making the content children play with more personal.    
+**What**: Let's Face It! Scrapbook is an iPad app being developed at the Centre of Autism Research, Technology, and Education    ([Site](http://web.uvic.ca/~carte/) | [Facebook](https://www.facebook.com/CARTEUVIC/?ref=aymt_homepage_panel)) at the University of Victoria. The aim of the app is to enhance the socio-emotional skills of children with ASD, taking inspiration from the original Let's Face It! program ([Link](http://web.uvic.ca/~letsface/letsfaceit/)) and extending it by making the content children play with more personal.    
 **Who**: I'm part of the tech team at CARTE, working with a team of student developers (that's changed a lot over the years!). I've led the team working on this project since 2015.  
-**When**: The app has gone through a number of iterations and beta tests since 2012, and we expect to release by the start of 2016.   
-**Where**: Screenshots in this repository. Video, code samples to come. The project, is sitting in a private repository.   
+**When**: The app has gone through a number of iterations and beta tests since 2012, we released in February 2016.   
+**Where**: Screenshots in this repository. It is on the [App Store](https://itunes.apple.com/app/lets-face-it!-scrapbook/id1030111507?ls=1&mt=8) and you'll find many video tutorials of earlier versions on [the LFI website](http://web.uvic.ca/~carte/lfiscrapbook.html). The project is sitting in a private repository.   
 <img src="screenshots/3.jpg" alt="LFI Cover" width="192" height="256">
 
 ---
